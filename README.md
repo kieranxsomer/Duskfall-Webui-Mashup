@@ -1,4 +1,7 @@
 # Duskfall-Webui-Mashup
+
+## RIGHT NOW THIS IS NOT ACTIVELY BEING DEVELOPED, WE ARE WORKING ON OTHER THINGS
+
 Attempting to mash together a notebook or fail trying LOL.
 
 So far i'm not anywhere near ready to publish this, and nor am i giving up OVERALL.. just..
